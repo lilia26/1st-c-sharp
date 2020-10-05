@@ -14,7 +14,7 @@ namespace _firstcode
 		{
 			string firstName;
 			string lastName;
-      int firstNumber;
+			int firstNumber;
 			int secondNumber;
 			int sum;
 
@@ -34,6 +34,6 @@ namespace _firstcode
 
 			Console.WriteLine(" " + firstName + " " + lastName + " the sum of " + firstNumber + " and " + secondNumber + " is " + sum + ".");
 			Console.WriteLine(" " + firstName + " thanks for using my first computer program! Come back soon! ");	
-				}
 		}
+	}
 }
