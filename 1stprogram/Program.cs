@@ -24,16 +24,17 @@ namespace _firstcode
 			Console.WriteLine(" Please input your last name: ");
 			lastName = Console.ReadLine();
 
-			Console.WriteLine( firstName + " Please enter the first number: ");
+			Console.WriteLine(" " + firstName + " Please input first number: ");
 			firstNumber = int.Parse(Console.ReadLine());
 
-			Console.WriteLine(firstName + " Please enter the second number: ");
+			Console.WriteLine(" " + firstName + " Please input second number: ");
 			secondNumber = int.Parse(Console.ReadLine());
 
 			sum = firstNumber + secondNumber;
 
-			Console.WriteLine(" " + firstName + " " + lastName + " the sum of " + firstNumber + " and " + secondNumber + " is " + sum + ".");
-			Console.WriteLine(" " + firstName + " thanks for using my first computer program! Come back soon! ");	
+			Console.WriteLine(" " + firstName + " " + lastName + " the sum of " + firstNumber + " plus " + secondNumber + " is " + sum + ".");
+			Console.WriteLine(" " + firstName + " Thanks for using my program! Come back again! ");
+			Console.ReadLine();
 		}
 	}
 }
