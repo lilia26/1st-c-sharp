@@ -11,3 +11,16 @@ C:\Users\lilia\source\repos\2ndprogram\obj\Debug\netcoreapp3.1\2ndprogram.csproj
 C:\Users\lilia\source\repos\2ndprogram\obj\Debug\netcoreapp3.1\2ndprogram.dll
 C:\Users\lilia\source\repos\2ndprogram\obj\Debug\netcoreapp3.1\2ndprogram.pdb
 C:\Users\lilia\source\repos\2ndprogram\obj\Debug\netcoreapp3.1\2ndprogram.genruntimeconfig.cache
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\2ndprogram\bin\Debug\netcoreapp3.1\2ndprogram.exe
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\2ndprogram\bin\Debug\netcoreapp3.1\2ndprogram.deps.json
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\2ndprogram\bin\Debug\netcoreapp3.1\2ndprogram.runtimeconfig.json
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\2ndprogram\bin\Debug\netcoreapp3.1\2ndprogram.runtimeconfig.dev.json
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\2ndprogram\bin\Debug\netcoreapp3.1\2ndprogram.dll
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\2ndprogram\bin\Debug\netcoreapp3.1\2ndprogram.pdb
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\2ndprogram\obj\Debug\netcoreapp3.1\2ndprogram.csprojAssemblyReference.cache
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\2ndprogram\obj\Debug\netcoreapp3.1\2ndprogram.AssemblyInfoInputs.cache
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\2ndprogram\obj\Debug\netcoreapp3.1\2ndprogram.AssemblyInfo.cs
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\2ndprogram\obj\Debug\netcoreapp3.1\2ndprogram.csproj.CoreCompileInputs.cache
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\2ndprogram\obj\Debug\netcoreapp3.1\2ndprogram.dll
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\2ndprogram\obj\Debug\netcoreapp3.1\2ndprogram.pdb
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\2ndprogram\obj\Debug\netcoreapp3.1\2ndprogram.genruntimeconfig.cache

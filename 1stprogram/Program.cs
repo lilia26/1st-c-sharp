@@ -14,8 +14,8 @@ namespace _firstcode
 		{
 			string firstName;
 			string lastName;
-			int firstNumber;
-			int secondNumber;
+			int firstNumber = 0;
+			int secondNumber = 0;
 			int sum;
 
 			Console.WriteLine(" Please input your first name: ");
@@ -24,12 +24,23 @@ namespace _firstcode
 			Console.WriteLine(" Please input your last name: ");
 			lastName = Console.ReadLine();
 
-			Console.WriteLine(" " + firstName + " Please input first number: ");
-			firstNumber = int.Parse(Console.ReadLine());
+			while(true)
+			{
+				Console.WriteLine(" " + firstName + " Please input first number: ");
+				try
+				{
+					firstNumber = int.Parse(Console.ReadLine());
+					break;
+				}
+				catch (System.FormatException)
+				{
+					Console.WriteLine(" You entered an invalid value. Please try again and input numbers only!");
+				}
+			}
 
 			Console.WriteLine(" " + firstName + " Please input second number: ");
 			secondNumber = int.Parse(Console.ReadLine());
-
+	
 			sum = firstNumber + secondNumber;
 
 			Console.WriteLine(" " + firstName + " " + lastName + " the sum of " + firstNumber + " plus " + secondNumber + " is " + sum + ".");

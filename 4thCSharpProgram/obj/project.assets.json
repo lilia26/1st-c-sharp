@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lilia\\OneDrive\\Documents\\GitHub\\1st-c-sharp\\3rdCSharpProgram\\3rdCSharpProgram.csproj",
-      "projectName": "3rdCSharpProgram",
-      "projectPath": "C:\\Users\\lilia\\OneDrive\\Documents\\GitHub\\1st-c-sharp\\3rdCSharpProgram\\3rdCSharpProgram.csproj",
+      "projectUniqueName": "C:\\Users\\lilia\\OneDrive\\Documents\\GitHub\\1st-c-sharp\\4thCSharpProgram\\4thCSharpProgram.csproj",
+      "projectName": "4thCSharpProgram",
+      "projectPath": "C:\\Users\\lilia\\OneDrive\\Documents\\GitHub\\1st-c-sharp\\4thCSharpProgram\\4thCSharpProgram.csproj",
       "packagesPath": "C:\\Users\\lilia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lilia\\OneDrive\\Documents\\GitHub\\1st-c-sharp\\3rdCSharpProgram\\obj\\",
+      "outputPath": "C:\\Users\\lilia\\OneDrive\\Documents\\GitHub\\1st-c-sharp\\4thCSharpProgram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

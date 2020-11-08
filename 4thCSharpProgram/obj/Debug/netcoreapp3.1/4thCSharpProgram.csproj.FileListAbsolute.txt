@@ -1,0 +1,13 @@
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\4thCSharpProgram\bin\Debug\netcoreapp3.1\4thCSharpProgram.exe
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\4thCSharpProgram\bin\Debug\netcoreapp3.1\4thCSharpProgram.deps.json
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\4thCSharpProgram\bin\Debug\netcoreapp3.1\4thCSharpProgram.runtimeconfig.json
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\4thCSharpProgram\bin\Debug\netcoreapp3.1\4thCSharpProgram.runtimeconfig.dev.json
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\4thCSharpProgram\bin\Debug\netcoreapp3.1\4thCSharpProgram.dll
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\4thCSharpProgram\bin\Debug\netcoreapp3.1\4thCSharpProgram.pdb
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\4thCSharpProgram\obj\Debug\netcoreapp3.1\4thCSharpProgram.csprojAssemblyReference.cache
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\4thCSharpProgram\obj\Debug\netcoreapp3.1\4thCSharpProgram.AssemblyInfoInputs.cache
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\4thCSharpProgram\obj\Debug\netcoreapp3.1\4thCSharpProgram.AssemblyInfo.cs
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\4thCSharpProgram\obj\Debug\netcoreapp3.1\4thCSharpProgram.csproj.CoreCompileInputs.cache
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\4thCSharpProgram\obj\Debug\netcoreapp3.1\4thCSharpProgram.dll
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\4thCSharpProgram\obj\Debug\netcoreapp3.1\4thCSharpProgram.pdb
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\4thCSharpProgram\obj\Debug\netcoreapp3.1\4thCSharpProgram.genruntimeconfig.cache
