@@ -3,7 +3,7 @@ This code asks the user for their first name
 Then it asks the user to input two numbers
 Then it asks for the user to pick an operation, addition, subtraction, multiplication, division, and power, and performs that operation
 The program gives the answer to the user
-The program loops five times, each time the user inputsa a new set of numbers and a new operation
+The program loops five times, each time the user inputs a new set of numbers and a new operation
 After all the loops the program thanks the user and asks them to come back
  */
 
