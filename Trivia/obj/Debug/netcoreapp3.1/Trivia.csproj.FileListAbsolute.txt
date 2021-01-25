@@ -1,0 +1,13 @@
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\Trivia\bin\Debug\netcoreapp3.1\Trivia.exe
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\Trivia\bin\Debug\netcoreapp3.1\Trivia.deps.json
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\Trivia\bin\Debug\netcoreapp3.1\Trivia.runtimeconfig.json
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\Trivia\bin\Debug\netcoreapp3.1\Trivia.runtimeconfig.dev.json
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\Trivia\bin\Debug\netcoreapp3.1\Trivia.dll
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\Trivia\bin\Debug\netcoreapp3.1\Trivia.pdb
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\Trivia\obj\Debug\netcoreapp3.1\Trivia.csprojAssemblyReference.cache
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\Trivia\obj\Debug\netcoreapp3.1\Trivia.AssemblyInfoInputs.cache
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\Trivia\obj\Debug\netcoreapp3.1\Trivia.AssemblyInfo.cs
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\Trivia\obj\Debug\netcoreapp3.1\Trivia.csproj.CoreCompileInputs.cache
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\Trivia\obj\Debug\netcoreapp3.1\Trivia.dll
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\Trivia\obj\Debug\netcoreapp3.1\Trivia.pdb
+C:\Users\lilia\OneDrive\Documents\GitHub\1st-c-sharp\Trivia\obj\Debug\netcoreapp3.1\Trivia.genruntimeconfig.cache
